@@ -1,1 +1,1 @@
-# DataMining_GlucoseLevelInArtificialPancreas
+# DataMining_GlucoseLevelInArtificialPancreas (class project)
