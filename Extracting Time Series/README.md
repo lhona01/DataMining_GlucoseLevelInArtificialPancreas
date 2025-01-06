@@ -16,8 +16,8 @@ Given:
   - Data is in reverse order of time.
 
 <h2>Solution</h2>
-1. Seperate manual mode data from auto mode data using InsulinData.csv
-2. exclude data for day with more than 10% missing data.
-3. Fill rest of the missing data using KNN regression and linear interpolation (288 data per day)
-4. Classify glucose level
-5. print it to Result.csv
+  1. Seperate manual mode data from auto mode data using InsulinData.csv
+  2. exclude data for day with more than 10% missing data.
+  3. Fill rest of the missing data using KNN regression and linear interpolation (288 data per day)
+  4. Classify glucose level
+  5. print it to Result.csv
