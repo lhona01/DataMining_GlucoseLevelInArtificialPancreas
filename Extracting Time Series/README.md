@@ -1,7 +1,6 @@
 <h2>Summary</h2>
 Extracting several performance metrics of an Aritificial Pancreas system from sensor data.
-
-
+<br>
 Metrics computed for manual mode and auto mode:
   1. Percentage time in hyperglycemia (CGM > 180 mg/dL),
   2. percentage of time in hyperglycemia critical (CGM > 250 mg/dL),
