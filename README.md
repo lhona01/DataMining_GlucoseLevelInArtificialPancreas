@@ -1,4 +1,4 @@
-<h2>(class project) Artificial Pancreas Projects </h2>
+<h2>Artificial Pancreas Projects </h2>
 <ol>
   <li>
     <a href="https://github.com/lhona01/DataMining_GlucoseLevelInArtificialPancreas/tree/main/Extracting%20Time%20Series" target="_blank">
